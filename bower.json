@@ -1,0 +1,21 @@
+{
+  "name": "cordovamaterial",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Nazır Doğan <nazrdogan@gmail.com>"
+  ],
+  "license": "ISC",
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "material-design-lite": "~1.0.6"
+  }
+}
